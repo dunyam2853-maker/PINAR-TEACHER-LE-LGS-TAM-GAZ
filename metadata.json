@@ -1,0 +1,6 @@
+{
+  "name": "Özel Güneysu Okulları - Pınar Teacher ile Tam Gaz LGS",
+  "description": "Özel Güneysu Okulları 8. Sınıf 'Pınar Teacher ile Tam Gaz LGS' Portalı. 3D animasyonlu oyunlar, ünite yarışmaları, ödev takip ve kontrol paneli, LGS çıkmış sorular ve interaktif etkinlikler.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
